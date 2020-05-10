@@ -23,4 +23,4 @@ autocmd BufNewFile *.py 0r ~/.vim/skeleton/skeleton.py
 autocmd BufNewFile *.sh 0r ~/.vim/skeleton/skeleton.sh
 
 " -- md config --
-autocmd BufNewFile *.sh 0r ~/.vim/skeleton/skeleton.md
+autocmd BufNewFile *.md 0r ~/.vim/skeleton/skeleton.md
